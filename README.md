@@ -1,5 +1,3 @@
-# Support with donation
-[![Support with donation](http://donation.pcoutinho.com/images/donate-button.png)](http://donation.pcoutinho.com/)
 
 # Fabric Upload DSYM Tool
 
