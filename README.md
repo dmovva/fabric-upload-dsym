@@ -13,8 +13,8 @@ fabric-upload-dsym --bundleid=[YOUR-APP-BUNDLE] --fabricapikey=[YOUR-FABRIC-API-
 
 ```
 go get github.com/PuerkitoBio/goquery
-go get github.com/prsolucoes/fabric-upload-dsym
-go install github.com/prsolucoes/fabric-upload-dsym
+go get github.com/dmovva/fabric-upload-dsym
+go install github.com/dmovva/fabric-upload-dsym
 ```
 
 # Help
